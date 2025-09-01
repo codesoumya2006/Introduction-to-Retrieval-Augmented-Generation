@@ -4,8 +4,6 @@ An interactive and beautifully designed **Birthday Greeting Webpage** made with 
 
 ---
 
-check the live demo: https://birthday-webapp.netlify.app/
-
 ## ✨ Features
 
 - **Multi-step Birthday Experience**  
